@@ -1,4 +1,4 @@
 
 # Bienvenido a mi perfil de GitHub! 👋
 
-### Aquí podrás encontrar mis proyectos tanto académicos como personales que he ido realizando en el tiempo para consolidar mis conocimientos y crecer en este amplio mundo que es el desarrollo el cual estoy construyendo.
+### Aquí encontrarás mis proyectos tanto académicos como personales, donde aplico lo aprendido para reforzar mis conocimientos y seguir creciendo en este gran mundo del desarrollo que estoy construyendo
