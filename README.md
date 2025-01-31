@@ -8,6 +8,8 @@
 ## Mis repositorios
 [Mi proyecto Tokio](https://github.com/Diejandro/SeniorDeLosAnillosConsola) Este es mi proyecto de Tokio School una vez finalizado el curso de Java.
 
+[Mi primeros pasos en Spring Boot](https://github.com/Diejandro/student-management) Mi primer proyecto sencillo en Springboot.
+
 # Mis estadisticas de GitHub
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Diejandro&show_icons=true&theme=dark)](github.com/Diejandro/github-readme-stats)
 
