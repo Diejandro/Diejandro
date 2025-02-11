@@ -16,3 +16,4 @@
 ### Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Diego_Alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-al-torres/)](https://www.linkedin.com/in/diego-al-torres)
 [![Gmail Badge](https://img.shields.io/badge/-diegalex93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mail:diegalex93@gmail.com)](mailto:diegalex93@gmail.com)
+[![Exercism Badge](https://img.shields.io/badge/-Axhyl-blue?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/Axhyl)](https://exercism.org/profiles/Axhyl)
