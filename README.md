@@ -12,7 +12,7 @@
 
 [Mi primeros pasos en Spring Boot](https://github.com/Diejandro/student-management) Mi primer proyecto sencillo en Springboot.
 
-[Ejercicios varios] Aqui las prácticas que he ido realizando a lo largo de mi aprendizaje.
+[Ejercicios varios](https://github.com/Diejandro/WorkSpace) Aqui las prácticas que he ido realizando a lo largo de mi aprendizaje.
 
 [![Exercism Badge](https://img.shields.io/badge/-Axhyl-blue?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/Axhyl)](https://exercism.org/profiles/Axhyl)
 
