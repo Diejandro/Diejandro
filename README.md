@@ -6,7 +6,7 @@
 ![](https://github.com/Diejandro/Diejandro/blob/main/IMG_0155.jpeg)
 
 ## Mis repositorios
-[Mi proyecto Tokio](https://github.com/Diejandro/SeniorDeLosAnillosConsola) Este es mi proyecto en consola de Tokio School una vez finalizado el curso de Java.
+[Mini juego consola](https://github.com/Diejandro/mi-juego-consola) Este es mi proyecto en consola de Tokio School una vez finalizado el curso de Java.
 
 [Mi proyeto TokioSchool UI](https://github.com/Diejandro/SeniorDeLosAnillosUI) Esta es otra versión del proyecto la cual se ejecuta en con un interfaz gráfico sencillo.
 
