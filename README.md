@@ -5,8 +5,22 @@
 
 ![](https://github.com/Diejandro/Diejandro/blob/main/IMG_0155.jpeg)
 
-## Mis repositorios
-[Mini juego consola](https://github.com/Diejandro/mi-juego-consola) Este es mi proyecto en consola de Tokio School una vez finalizado el curso de Java.
+### 🕹️ Proyectos Destacados
+
+#### **[Batalla por la Tierra Media (Versión GUI)](https://github.com/Diejandro/juego-batalla-gui-java)**
+
+<img src="screenshot-juego.png" width="30%" alt="Captura del juego">
+
+* **Descripción:** Evolución del proyecto original hacia un entorno gráfico interactivo.
+* **Tecnologías:** `Java 17`, `Swing`, `AWT`, `POO` (Herencia, Interfaces, Polimorfismo).
+* **Lo que aprendí:** Sustitución de la lógica secuencial por una arquitectura basada en eventos (Event-Driven), diseño de interfaces con `GridBagLayout` y gestión de estados de la interfaz mediante componentes visuales.
+
+---
+
+#### **[Mini Juego de Consola (Versión Original)](https://github.com/Diejandro/mi-juego-consola)**
+* **Descripción:** Motor de simulación de combate automatizado que procesa enfrentamientos épicos entre ejércitos preconfigurados de Héroes y Bestias.
+* **Tecnologías:** `Java`, `Lógica de Algoritmos`, `Colecciones` (ArrayList, Queue, Iterators).
+* **Hito:** Mi primer gran proyecto tras finalizar el curso en **Tokio School**, enfocado en la arquitectura de clases y la resolución de lógica compleja sin intervención manual durante la ejecución.
 
 [![Exercism Badge](https://img.shields.io/badge/-Axhyl-blue?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/Axhyl)](https://exercism.org/profiles/Axhyl)
 
