@@ -1,4 +1,3 @@
-
 # Bienvenido a mi perfil de GitHub! 👋
 
 ### Aquí encontrarás mis proyectos tanto académicos como personales, donde aplico lo aprendido para reforzar mis conocimientos y seguir creciendo en este gran mundo del desarrollo que estoy construyendo
@@ -6,6 +5,16 @@
 ![](https://github.com/Diejandro/Diejandro/blob/main/IMG_0155.jpeg)
 
 ### 🕹️ Proyectos Destacados
+
+#### **[Sales Analysis Dashboard - English School](https://github.com/Diejandro/analisis-ventas-javafx)**
+
+<img src="https://raw.githubusercontent.com/Diejandro/analisis-ventas-javafx/main/screenshots/dashboard_general.png" width="35%" alt="Captura del dashboard">
+
+* **Descripción:** Aplicación de escritorio para la gestión comercial y análisis de ventas. Este es mi proyecto más completo hasta la fecha, enfocado en transformar datos planos en información visual para una academia de idiomas.
+* **Tecnologías:** `Java 21`, `JavaFX (FXML)`, `Maven`, `CSS`.
+* **Lo que aprendí:** Integración de gráficos dinámicos, generación de informes en HTML y diseño de experiencia de usuario (UX/UI). Un valor añadido es que toda la **iconografía fue diseñada manualmente** para este proyecto.
+
+---
 
 #### **[Batalla por la Tierra Media (Versión GUI)](https://github.com/Diejandro/juego-batalla-gui-java)**
 
@@ -20,9 +29,7 @@
 #### **[Mini Juego de Consola (Versión Original)](https://github.com/Diejandro/mi-juego-consola)**
 * **Descripción:** Motor de simulación de combate automatizado que procesa enfrentamientos épicos entre ejércitos preconfigurados de Héroes y Bestias.
 * **Tecnologías:** `Java`, `Lógica de Algoritmos`, `Colecciones` (ArrayList, Queue, Iterators).
-* **Hito:** Mi primer gran proyecto tras finalizar el curso en **Tokio School**, enfocado en la arquitectura de clases y la resolución de lógica compleja sin intervención manual durante la ejecución.
-
-[![Exercism Badge](https://img.shields.io/badge/-Axhyl-blue?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/Axhyl)](https://exercism.org/profiles/Axhyl)
+* **Hito:** Mi primer gran proyecto tras finalizar el curso en **Tokio School**, enfocado en la arquitectura de clases y la resolución de lógica compleja.
 
 # Mis estadísticas de GitHub
 [![Estadísticas de Diejandro](https://github-readme-stats-gamma-wheat-44.vercel.app/api?username=Diejandro&show_icons=true&theme=dark)](https://github.com/Diejandro/github-readme-stats)
