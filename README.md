@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub! 👋
 
-### Aquí encontrarás mis proyectos tanto académicos como personales, donde aplico lo aprendido para reforzar mis conocimientos y seguir creciendo en este gran mundo del desarrollo que estoy construyendo
+### Repositorio dedicado a mis prácticas académicas y proyectos personales. Actualmente enfocado en el ecosistema Backend con Spring y bases de datos relacionales. Busco consolidar la base técnica para mi primera oportunidad profesional.
 
 ![](https://github.com/Diejandro/Diejandro/blob/main/IMG_0561.jpeg)
 
