@@ -2,7 +2,7 @@
 
 ### Aquí encontrarás mis proyectos tanto académicos como personales, donde aplico lo aprendido para reforzar mis conocimientos y seguir creciendo en este gran mundo del desarrollo que estoy construyendo
 
-![](https://github.com/Diejandro/Diejandro/blob/main/IMG_0155.jpeg)
+![](https://github.com/Diejandro/Diejandro/blob/main/IMG_0561.jpeg)
 
 ### 🕹️ Proyectos Destacados
 
