@@ -6,6 +6,13 @@
 
 ### 🕹️ Proyectos Destacados
 
+### 🚀 [API REST Profesional - Gestión de Clientes](https://github.com/Diejandro/order-management-api)
+* **Descripción:** Primera API REST profesional para la gestión de clientes y usuarios. Este proyecto representa un salto hacia el desarrollo backend avanzado, integrando persistencia de datos real, seguridad robusta y un sistema de despliegue automatizado.
+* **Tecnologías:** `Java 21`, `Spring Boot 4.0.5`, `Docker & Docker Compose`, `PostgreSQL 17`, `Spring Security`, `Hibernate`.
+* **Lo que aprendí:** Implementación de **Infraestructura como Código (IoC)** para el despliegue de bases de datos, gestión de seguridad con cifrado **BCrypt**, manejo de entornos mediante variables protegidas (`.env`) y diseño de arquitectura multicapa con lógica de negocio condicional para roles.
+
+---
+
 #### **[Sales Analysis Dashboard - English School](https://github.com/Diejandro/analisis-ventas-javafx)**
 
 <img src="https://raw.githubusercontent.com/Diejandro/analisis-ventas-javafx/main/screenshots/dashboard_general.png" width="35%" alt="Captura del dashboard">
@@ -16,20 +23,11 @@
 
 ---
 
-#### **[Batalla por la Tierra Media (Versión GUI)](https://github.com/Diejandro/juego-batalla-gui-java)**
-
-<img src="screenshot-juego.png" width="30%" alt="Captura del juego">
-
-* **Descripción:** Evolución del proyecto original hacia un entorno gráfico interactivo.
-* **Tecnologías:** `Java 17`, `Swing`, `AWT`, `POO` (Herencia, Interfaces, Polimorfismo).
-* **Lo que aprendí:** Sustitución de la lógica secuencial por una arquitectura basada en eventos (Event-Driven), diseño de interfaces con `GridBagLayout` y gestión de estados de la interfaz mediante componentes visuales.
-
----
-
-#### **[Mini Juego de Consola (Versión Original)](https://github.com/Diejandro/mi-juego-consola)**
-* **Descripción:** Motor de simulación de combate automatizado que procesa enfrentamientos épicos entre ejércitos preconfigurados de Héroes y Bestias.
-* **Tecnologías:** `Java`, `Lógica de Algoritmos`, `Colecciones` (ArrayList, Queue, Iterators).
-* **Hito:** Mi primer gran proyecto tras finalizar el curso en **Tokio School**, enfocado en la arquitectura de clases y la resolución de lógica compleja.
+### 🛡️ [Saga: Batalla por la Tierra Media (Consola & GUI)](https://github.com/Diejandro/juego-batalla-gui-java)
+* **Descripción:** Evolución de un motor de simulación de combate automatizado en consola hacia un entorno gráfico interactivo y dinámico.
+* **Tecnologías:** `Java 17`, `Swing`, `AWT`, `POO Avanzada`, `Collections`.
+* **Hito:** Transición de lógica secuencial a una **arquitectura basada en eventos (Event-Driven)**, optimizando la gestión de estados y el diseño de interfaces con `GridBagLayout`.
+* **Versiones:** [🎮 Ver Versión GUI](https://github.com/Diejandro/juego-batalla-gui-java) | [⌨️ Ver Versión Consola](https://github.com/Diejandro/mi-juego-consola)
 
 # Mis estadísticas de GitHub
 [![Estadísticas de Diejandro](https://github-readme-stats-gamma-wheat-44.vercel.app/api?username=Diejandro&show_icons=true&theme=dark)](https://github.com/Diejandro/github-readme-stats)
